@@ -29,6 +29,8 @@ const students = [
   { name: "Wilson", times: 0, level: "C", lastTime: 0, area: "FRONT" },
   { name: "Gabriel", times: 0, level: "D", lastTime: 0, area: "FRONT" },
   { name: "Junior", times: 0, level: "C", lastTime: 0, area: "BACK" },
+  { name: "Amanda", times: 0, level: "D", lastTime: 0, area: "FRONT" },
+  { name: "Walter", times: 0, level: "C", lastTime: 0, area: "BACK" },
 ];
 
 // call your function/method
